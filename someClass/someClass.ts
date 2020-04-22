@@ -1,4 +1,4 @@
-class SomeClass {
+export class SomeClass {
     greeting: string;
     constructor(message: string) {
         this.greeting = message;
